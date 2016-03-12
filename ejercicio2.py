@@ -1,6 +1,5 @@
 #!/usr/local/bin/python
-n = 0
-while n < 25:
-if % n = 1
-	else
+n = 1
+while n <= 25:		
 	print(n)
+	n = n + 2
